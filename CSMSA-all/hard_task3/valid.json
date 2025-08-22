@@ -1,0 +1,983 @@
+[
+    {
+        "text": "你是？窝认识的那个？\t好像很多人叫这个名字\t你是哪个年级的呀~~\t",
+        "image": "462.webp",
+        "multimodal_label": 2,
+        "text_label": 0,
+        "image_label": 2,
+        "img_helps_text": 1,
+        "sticker_group": 14
+    },
+    {
+        "text": "不不不，，，窝认识的万里是高中同学，，，16级\t0.0\t计算机学院的日常\t",
+        "image": "462.webp",
+        "multimodal_label": 2,
+        "text_label": 0,
+        "image_label": 2,
+        "img_helps_text": 1,
+        "sticker_group": 14
+    },
+    {
+        "text": "0.0.那个人已经被踢掉了，，，对话全部删除了，，希望不要影响到大家心情\t",
+        "image": "462.webp",
+        "multimodal_label": 2,
+        "text_label": 2,
+        "image_label": 2,
+        "img_helps_text": 0,
+        "sticker_group": 14
+    },
+    {
+        "text": "IPv6\tjuju~\t",
+        "image": "13076.webp",
+        "multimodal_label": 2,
+        "text_label": 0,
+        "image_label": 2,
+        "img_helps_text": 1,
+        "sticker_group": 14
+    },
+    {
+        "text": "学长？\t",
+        "image": "462.webp",
+        "multimodal_label": 2,
+        "text_label": 0,
+        "image_label": 2,
+        "img_helps_text": 1,
+        "sticker_group": 14
+    },
+    {
+        "text": "同学你打算干啥～\t感觉寝室吃鸡的朋友都突然掉线了\tvpn都发生了一些奇怪的事情\t",
+        "image": "462.webp",
+        "multimodal_label": 2,
+        "text_label": 2,
+        "image_label": 2,
+        "img_helps_text": 0,
+        "sticker_group": 14
+    },
+    {
+        "text": "又没了哈哈\t",
+        "image": "1679718.webp",
+        "multimodal_label": 1,
+        "text_label": 1,
+        "image_label": 0,
+        "img_helps_text": 0,
+        "sticker_group": 14
+    },
+    {
+        "text": "不懂你们在说什么，能不能正常说话\t",
+        "image": "1686785.webp",
+        "multimodal_label": 2,
+        "text_label": 2,
+        "image_label": 2,
+        "img_helps_text": 0,
+        "sticker_group": 14
+    },
+    {
+        "text": "哈哈哈\t",
+        "image": "1574048.webp",
+        "multimodal_label": 2,
+        "text_label": 1,
+        "image_label": 2,
+        "img_helps_text": 1,
+        "sticker_group": 14
+    },
+    {
+        "text": "别的都是顺着找出来的\t",
+        "image": "1575010.webp",
+        "multimodal_label": 0,
+        "text_label": 0,
+        "image_label": 0,
+        "img_helps_text": 0,
+        "sticker_group": 14
+    },
+    {
+        "text": "要么你机场那里的服务器\t",
+        "image": "1689735.webp",
+        "multimodal_label": 2,
+        "text_label": 0,
+        "image_label": 2,
+        "img_helps_text": 1,
+        "sticker_group": 14
+    },
+    {
+        "text": "早上好🌞\t",
+        "image": "1603331.webp",
+        "multimodal_label": 1,
+        "text_label": 1,
+        "image_label": 0,
+        "img_helps_text": 0,
+        "sticker_group": 14
+    },
+    {
+        "text": "不要post這些號碼\t好嘛\t",
+        "image": "1536396.webp",
+        "multimodal_label": 2,
+        "text_label": 0,
+        "image_label": 2,
+        "img_helps_text": 1,
+        "sticker_group": 14
+    },
+    {
+        "text": "没呢，这两天考驾照，科目一看的头疼\t",
+        "image": "1538947.webp",
+        "multimodal_label": 2,
+        "text_label": 2,
+        "image_label": 2,
+        "img_helps_text": 0,
+        "sticker_group": 14
+    },
+    {
+        "text": "哎嘿嘿嘿\t",
+        "image": "1631480.webp",
+        "multimodal_label": 1,
+        "text_label": 1,
+        "image_label": 1,
+        "img_helps_text": 0,
+        "sticker_group": 14
+    },
+    {
+        "text": "放喵喵么，我也要\t好了\t",
+        "image": "1631480.webp",
+        "multimodal_label": 1,
+        "text_label": 0,
+        "image_label": 1,
+        "img_helps_text": 1,
+        "sticker_group": 14
+    },
+    {
+        "text": "为啥\t",
+        "image": "1520766.webp",
+        "multimodal_label": 2,
+        "text_label": 0,
+        "image_label": 2,
+        "img_helps_text": 1,
+        "sticker_group": 14
+    },
+    {
+        "text": "突然想打哈欠了…\t",
+        "image": "1689735.webp",
+        "multimodal_label": 0,
+        "text_label": 0,
+        "image_label": 0,
+        "img_helps_text": 0,
+        "sticker_group": 14
+    },
+    {
+        "text": "竖个大拇指\t",
+        "image": "1689713.webp",
+        "multimodal_label": 1,
+        "text_label": 1,
+        "image_label": 1,
+        "img_helps_text": 0,
+        "sticker_group": 14
+    },
+    {
+        "text": "。。。。\t",
+        "image": "1689735.webp",
+        "multimodal_label": 2,
+        "text_label": 2,
+        "image_label": 0,
+        "img_helps_text": 0,
+        "sticker_group": 14
+    },
+    {
+        "text": "被机器人屏蔽删了\t",
+        "image": "1689735.webp",
+        "multimodal_label": 2,
+        "text_label": 2,
+        "image_label": 2,
+        "img_helps_text": 0,
+        "sticker_group": 14
+    },
+    {
+        "text": "这里有汉化语言包安装就行了\t",
+        "image": "1689735.webp",
+        "multimodal_label": 2,
+        "text_label": 0,
+        "image_label": 2,
+        "img_helps_text": 1,
+        "sticker_group": 14
+    },
+    {
+        "text": "今晚的风真大\t",
+        "image": "31469.webp",
+        "multimodal_label": 0,
+        "text_label": 0,
+        "image_label": 0,
+        "img_helps_text": 0,
+        "sticker_group": 14
+    },
+    {
+        "text": "我们大概啥时候可以开学\t",
+        "image": "33243.webp",
+        "multimodal_label": 2,
+        "text_label": 0,
+        "image_label": 2,
+        "img_helps_text": 1,
+        "sticker_group": 14
+    },
+    {
+        "text": "大家主要是没什麽话题\t",
+        "image": "33416.webp",
+        "multimodal_label": 2,
+        "text_label": 0,
+        "image_label": 2,
+        "img_helps_text": 1,
+        "sticker_group": 14
+    },
+    {
+        "text": "两会以后应该会有消息\t",
+        "image": "38485.webp",
+        "multimodal_label": 2,
+        "text_label": 0,
+        "image_label": 2,
+        "img_helps_text": 1,
+        "sticker_group": 14
+    },
+    {
+        "text": "一个个又没什么空打游戏，也没空关心政治，最多看看黄群冲一下，能聊什么\t",
+        "image": "44040.webp",
+        "multimodal_label": 2,
+        "text_label": 2,
+        "image_label": 2,
+        "img_helps_text": 0,
+        "sticker_group": 14
+    },
+    {
+        "text": "怎么回事？发生什么事了呀\t",
+        "image": "1650639.webp",
+        "multimodal_label": 0,
+        "text_label": 0,
+        "image_label": 0,
+        "img_helps_text": 0,
+        "sticker_group": 14
+    },
+    {
+        "text": "。。。\t好像没有…\t",
+        "image": "1647894.webp",
+        "multimodal_label": 2,
+        "text_label": 2,
+        "image_label": 2,
+        "img_helps_text": 0,
+        "sticker_group": 14
+    },
+    {
+        "text": "葱哥来了\t不对劲\t",
+        "image": "1652606.webp",
+        "multimodal_label": 2,
+        "text_label": 2,
+        "image_label": 2,
+        "img_helps_text": 0,
+        "sticker_group": 14
+    },
+    {
+        "text": "世界上或许没有ban哥，又或者人人都是ban哥\t我救不了\t",
+        "image": "1658457.webp",
+        "multimodal_label": 2,
+        "text_label": 2,
+        "image_label": 2,
+        "img_helps_text": 0,
+        "sticker_group": 14
+    },
+    {
+        "text": "在P站学数学\t13.7K观看\t",
+        "image": "1501494.webp",
+        "multimodal_label": 2,
+        "text_label": 2,
+        "image_label": 2,
+        "img_helps_text": 0,
+        "sticker_group": 14
+    },
+    {
+        "text": "之前分享过好像\t安卓能用吗\t有没有安卓的\t",
+        "image": "1668424.webp",
+        "multimodal_label": 0,
+        "text_label": 0,
+        "image_label": 0,
+        "img_helps_text": 0,
+        "sticker_group": 14
+    },
+    {
+        "text": "这点钱很难帮你办事啊\t",
+        "image": "27889.webp",
+        "multimodal_label": 2,
+        "text_label": 2,
+        "image_label": 1,
+        "img_helps_text": 0,
+        "sticker_group": 14
+    },
+    {
+        "text": "今天加班\t",
+        "image": "27889.webp",
+        "multimodal_label": 1,
+        "text_label": 0,
+        "image_label": 1,
+        "img_helps_text": 1,
+        "sticker_group": 14
+    },
+    {
+        "text": "索引里找一找\t",
+        "image": "28815.webp",
+        "multimodal_label": 2,
+        "text_label": 0,
+        "image_label": 2,
+        "img_helps_text": 1,
+        "sticker_group": 14
+    },
+    {
+        "text": "是给一见钟情牵线吗\t还是有学习工作需要？\t",
+        "image": "29584.webp",
+        "multimodal_label": 1,
+        "text_label": 0,
+        "image_label": 1,
+        "img_helps_text": 1,
+        "sticker_group": 14
+    },
+    {
+        "text": "做什么事\t",
+        "image": "29584.webp",
+        "multimodal_label": 1,
+        "text_label": 0,
+        "image_label": 1,
+        "img_helps_text": 1,
+        "sticker_group": 14
+    },
+    {
+        "text": "学校里有没有一个练口语不会打扰到别人的地方\t",
+        "image": "30472.webp",
+        "multimodal_label": 2,
+        "text_label": 0,
+        "image_label": 2,
+        "img_helps_text": 1,
+        "sticker_group": 14
+    },
+    {
+        "text": "咦，慢速模式什么时候开的……\t",
+        "image": "1551361.webp",
+        "multimodal_label": 0,
+        "text_label": 0,
+        "image_label": 0,
+        "img_helps_text": 0,
+        "sticker_group": 14
+    },
+    {
+        "text": "为什么我发的长图，会被压画质\t",
+        "image": "1565534.webp",
+        "multimodal_label": 2,
+        "text_label": 2,
+        "image_label": 2,
+        "img_helps_text": 0,
+        "sticker_group": 14
+    },
+    {
+        "text": "我已经看不到消息了\t",
+        "image": "21239.webp",
+        "multimodal_label": 2,
+        "text_label": 2,
+        "image_label": 2,
+        "img_helps_text": 0,
+        "sticker_group": 14
+    },
+    {
+        "text": "我校小店公告板\t拿老师手机拍的，刚搬完东西手有点儿抖\t",
+        "image": "13076.webp",
+        "multimodal_label": 2,
+        "text_label": 0,
+        "image_label": 2,
+        "img_helps_text": 1,
+        "sticker_group": 14
+    },
+    {
+        "text": "亲亲学姐\t",
+        "image": "22287.webp",
+        "multimodal_label": 1,
+        "text_label": 1,
+        "image_label": 0,
+        "img_helps_text": 0,
+        "sticker_group": 14
+    },
+    {
+        "text": "tiktok无水印怎么弄\t",
+        "image": "1643437.webp",
+        "multimodal_label": 2,
+        "text_label": 0,
+        "image_label": 2,
+        "img_helps_text": 1,
+        "sticker_group": 14
+    },
+    {
+        "text": "英雄联盟\t玩都没玩过\t",
+        "image": "1645167.webp",
+        "multimodal_label": 2,
+        "text_label": 2,
+        "image_label": 0,
+        "img_helps_text": 0,
+        "sticker_group": 14
+    },
+    {
+        "text": "你们聊得我都看不太懂\t",
+        "image": "1645299.webp",
+        "multimodal_label": 2,
+        "text_label": 2,
+        "image_label": 2,
+        "img_helps_text": 0,
+        "sticker_group": 14
+    },
+    {
+        "text": "看得好混乱啊…\t",
+        "image": "1616847.webp",
+        "multimodal_label": 2,
+        "text_label": 2,
+        "image_label": 2,
+        "img_helps_text": 0,
+        "sticker_group": 14
+    },
+    {
+        "text": "帮你接推广\t",
+        "image": "1593020.webp",
+        "multimodal_label": 1,
+        "text_label": 0,
+        "image_label": 1,
+        "img_helps_text": 1,
+        "sticker_group": 14
+    },
+    {
+        "text": "没投的投一下\t",
+        "image": "1593860.webp",
+        "multimodal_label": 2,
+        "text_label": 0,
+        "image_label": 2,
+        "img_helps_text": 1,
+        "sticker_group": 14
+    },
+    {
+        "text": "OwO\t",
+        "image": "1600530.webp",
+        "multimodal_label": 1,
+        "text_label": 1,
+        "image_label": 1,
+        "img_helps_text": 0,
+        "sticker_group": 14
+    },
+    {
+        "text": "不是啊\t",
+        "image": "1544381.webp",
+        "multimodal_label": 2,
+        "text_label": 0,
+        "image_label": 2,
+        "img_helps_text": 1,
+        "sticker_group": 14
+    },
+    {
+        "text": "咋防撤回\t",
+        "image": "1510027.webp",
+        "multimodal_label": 0,
+        "text_label": 0,
+        "image_label": 0,
+        "img_helps_text": 0,
+        "sticker_group": 14
+    },
+    {
+        "text": "因为第一种是左引号和右引号而且都在 ASCII 范围内，第二个是两个右引号不是很舒服，第三个不在 ASCII 范围内当然早期程序不考虑了\t",
+        "image": "13076.webp",
+        "multimodal_label": 2,
+        "text_label": 0,
+        "image_label": 2,
+        "img_helps_text": 1,
+        "sticker_group": 14
+    },
+    {
+        "text": "似乎不分\torz\t",
+        "image": "13076.webp",
+        "multimodal_label": 2,
+        "text_label": 2,
+        "image_label": 2,
+        "img_helps_text": 0,
+        "sticker_group": 14
+    },
+    {
+        "text": "话说 如果真的是 要不要t？\t出来冒个泡吧\t",
+        "image": "13076.webp",
+        "multimodal_label": 2,
+        "text_label": 0,
+        "image_label": 2,
+        "img_helps_text": 1,
+        "sticker_group": 14
+    },
+    {
+        "text": "别找我（\t",
+        "image": "13076.webp",
+        "multimodal_label": 2,
+        "text_label": 0,
+        "image_label": 2,
+        "img_helps_text": 1,
+        "sticker_group": 14
+    },
+    {
+        "text": "你上交大佬说笑了（\tOrz\t",
+        "image": "13076.webp",
+        "multimodal_label": 2,
+        "text_label": 2,
+        "image_label": 2,
+        "img_helps_text": 0,
+        "sticker_group": 14
+    },
+    {
+        "text": "据说 冰琳姐 高中就是在网吧折腾电脑的\t",
+        "image": "13076.webp",
+        "multimodal_label": 2,
+        "text_label": 0,
+        "image_label": 2,
+        "img_helps_text": 1,
+        "sticker_group": 14
+    },
+    {
+        "text": "三爷上百粉丝之一orz\t",
+        "image": "13076.webp",
+        "multimodal_label": 2,
+        "text_label": 2,
+        "image_label": 1,
+        "img_helps_text": 0,
+        "sticker_group": 14
+    },
+    {
+        "text": "要那么多repo干嘛\t",
+        "image": "13076.webp",
+        "multimodal_label": 2,
+        "text_label": 0,
+        "image_label": 2,
+        "img_helps_text": 1,
+        "sticker_group": 14
+    },
+    {
+        "text": "我会这么帮你们宣传的\t然后一起在华科打ingress）\t",
+        "image": "13076.webp",
+        "multimodal_label": 2,
+        "text_label": 0,
+        "image_label": 2,
+        "img_helps_text": 1,
+        "sticker_group": 14
+    },
+    {
+        "text": "然后一起在华科打ingress）\t怎么敢踢dalao们\t",
+        "image": "13076.webp",
+        "multimodal_label": 2,
+        "text_label": 2,
+        "image_label": 2,
+        "img_helps_text": 0,
+        "sticker_group": 14
+    },
+    {
+        "text": "哇 dalao听歌，都好有品位\t正在看你的歌单\t",
+        "image": "13076.webp",
+        "multimodal_label": 1,
+        "text_label": 1,
+        "image_label": 2,
+        "img_helps_text": 0,
+        "sticker_group": 14
+    },
+    {
+        "text": "啊，原来是这样啊\t没什么折腾价值吗pmp？\t",
+        "image": "13076.webp",
+        "multimodal_label": 2,
+        "text_label": 2,
+        "image_label": 2,
+        "img_helps_text": 0,
+        "sticker_group": 14
+    },
+    {
+        "text": "arp 欺骗攻击，我记得也是可以的\t好久没玩了\t一个寝室里面我记得可以？\t",
+        "image": "13076.webp",
+        "multimodal_label": 2,
+        "text_label": 0,
+        "image_label": 2,
+        "img_helps_text": 1,
+        "sticker_group": 14
+    },
+    {
+        "text": "（每天都有新dalao加群）\t",
+        "image": "13076.webp",
+        "multimodal_label": 2,
+        "text_label": 0,
+        "image_label": 2,
+        "img_helps_text": 1,
+        "sticker_group": 14
+    },
+    {
+        "text": "你都没发出来怎么关注\t",
+        "image": "1658457.webp",
+        "multimodal_label": 2,
+        "text_label": 0,
+        "image_label": 2,
+        "img_helps_text": 1,
+        "sticker_group": 14
+    },
+    {
+        "text": "不找\t下一个\t",
+        "image": "1667357.webp",
+        "multimodal_label": 2,
+        "text_label": 2,
+        "image_label": 0,
+        "img_helps_text": 0,
+        "sticker_group": 14
+    },
+    {
+        "text": "我想学习一下操作机器人\t",
+        "image": "1679395.webp",
+        "multimodal_label": 0,
+        "text_label": 0,
+        "image_label": 0,
+        "img_helps_text": 0,
+        "sticker_group": 15
+    },
+    {
+        "text": "你在tele\t",
+        "image": "1598387.webp",
+        "multimodal_label": 0,
+        "text_label": 0,
+        "image_label": 0,
+        "img_helps_text": 0,
+        "sticker_group": 15
+    },
+    {
+        "text": "黑师傅一心扑在薯条身上\t看都不看我们\t",
+        "image": "1605777.webp",
+        "multimodal_label": 2,
+        "text_label": 2,
+        "image_label": 2,
+        "img_helps_text": 0,
+        "sticker_group": 15
+    },
+    {
+        "text": "不要乱玩管理员命令\t",
+        "image": "1599521.webp",
+        "multimodal_label": 2,
+        "text_label": 2,
+        "image_label": 1,
+        "img_helps_text": 0,
+        "sticker_group": 15
+    },
+    {
+        "text": "他可能说的是清空历史聊天记录\t",
+        "image": "1599521.webp",
+        "multimodal_label": 1,
+        "text_label": 0,
+        "image_label": 1,
+        "img_helps_text": 1,
+        "sticker_group": 15
+    },
+    {
+        "text": "强\t",
+        "image": "1522885.webp",
+        "multimodal_label": 1,
+        "text_label": 1,
+        "image_label": 1,
+        "img_helps_text": 0,
+        "sticker_group": 15
+    },
+    {
+        "text": "欢迎大家骚扰我☎，谢谢~\t",
+        "image": "1599521.webp",
+        "multimodal_label": 1,
+        "text_label": 1,
+        "image_label": 1,
+        "img_helps_text": 0,
+        "sticker_group": 15
+    },
+    {
+        "text": "别甩锅给00后\t",
+        "image": "1599521.webp",
+        "multimodal_label": 1,
+        "text_label": 2,
+        "image_label": 1,
+        "img_helps_text": 1,
+        "sticker_group": 15
+    },
+    {
+        "text": "北京大兴安岭机场你值得拥有~\t",
+        "image": "1599521.webp",
+        "multimodal_label": 1,
+        "text_label": 1,
+        "image_label": 1,
+        "img_helps_text": 0,
+        "sticker_group": 15
+    },
+    {
+        "text": "TG的机器人你们都是怎么做的呢》\t",
+        "image": "1501216.webp",
+        "multimodal_label": 1,
+        "text_label": 0,
+        "image_label": 1,
+        "img_helps_text": 1,
+        "sticker_group": 15
+    },
+    {
+        "text": "tg都是这样的\t",
+        "image": "1597474.webp",
+        "multimodal_label": 2,
+        "text_label": 0,
+        "image_label": 2,
+        "img_helps_text": 1,
+        "sticker_group": 15
+    },
+    {
+        "text": "这种有啥好看的\t",
+        "image": "28480.webp",
+        "multimodal_label": 2,
+        "text_label": 2,
+        "image_label": 2,
+        "img_helps_text": 0,
+        "sticker_group": 15
+    },
+    {
+        "text": "不知道\t",
+        "image": "28820.webp",
+        "multimodal_label": 0,
+        "text_label": 0,
+        "image_label": 0,
+        "img_helps_text": 0,
+        "sticker_group": 15
+    },
+    {
+        "text": "你要做咩鸭\t",
+        "image": "29604.webp",
+        "multimodal_label": 1,
+        "text_label": 0,
+        "image_label": 1,
+        "img_helps_text": 1,
+        "sticker_group": 15
+    },
+    {
+        "text": "勇士啊\t一抓一个准\t",
+        "image": "29604.webp",
+        "multimodal_label": 1,
+        "text_label": 1,
+        "image_label": 1,
+        "img_helps_text": 0,
+        "sticker_group": 15
+    },
+    {
+        "text": "tg不是法外之地\t",
+        "image": "29604.webp",
+        "multimodal_label": 1,
+        "text_label": 0,
+        "image_label": 1,
+        "img_helps_text": 1,
+        "sticker_group": 15
+    },
+    {
+        "text": "自己加就加了嘛\t",
+        "image": "30063.webp",
+        "multimodal_label": 2,
+        "text_label": 0,
+        "image_label": 2,
+        "img_helps_text": 1,
+        "sticker_group": 15
+    },
+    {
+        "text": "自己加就加了嘛\t",
+        "image": "30066.webp",
+        "multimodal_label": 1,
+        "text_label": 0,
+        "image_label": 1,
+        "img_helps_text": 1,
+        "sticker_group": 15
+    },
+    {
+        "text": "你们翻墙是干啥\t",
+        "image": "1571951.webp",
+        "multimodal_label": 1,
+        "text_label": 0,
+        "image_label": 1,
+        "img_helps_text": 1,
+        "sticker_group": 15
+    },
+    {
+        "text": "只有ios有\t",
+        "image": "1560038.webp",
+        "multimodal_label": 2,
+        "text_label": 0,
+        "image_label": 2,
+        "img_helps_text": 1,
+        "sticker_group": 15
+    },
+    {
+        "text": "实际这简直宛如在上课\t",
+        "image": "1561198.webp",
+        "multimodal_label": 2,
+        "text_label": 2,
+        "image_label": 1,
+        "img_helps_text": 0,
+        "sticker_group": 15
+    },
+    {
+        "text": "毕竟哲学三大终极问题都抛出来了\t",
+        "image": "1598387.webp",
+        "multimodal_label": 2,
+        "text_label": 0,
+        "image_label": 2,
+        "img_helps_text": 1,
+        "sticker_group": 15
+    },
+    {
+        "text": "我实在无法解答这三大终极问题，然后选择了绕行\t",
+        "image": "1561198.webp",
+        "multimodal_label": 2,
+        "text_label": 2,
+        "image_label": 1,
+        "img_helps_text": 0,
+        "sticker_group": 15
+    },
+    {
+        "text": "哲学上这三大问题会产生虚无主义\t",
+        "image": "1598387.webp",
+        "multimodal_label": 2,
+        "text_label": 0,
+        "image_label": 2,
+        "img_helps_text": 1,
+        "sticker_group": 15
+    },
+    {
+        "text": "不会是我吧……\t",
+        "image": "1641513.webp",
+        "multimodal_label": 2,
+        "text_label": 2,
+        "image_label": 2,
+        "img_helps_text": 0,
+        "sticker_group": 15
+    },
+    {
+        "text": "瓦特\t",
+        "image": "1645415.webp",
+        "multimodal_label": 0,
+        "text_label": 0,
+        "image_label": 0,
+        "img_helps_text": 0,
+        "sticker_group": 15
+    },
+    {
+        "text": "有谁推荐个流量卡\t",
+        "image": "1599521.webp",
+        "multimodal_label": 1,
+        "text_label": 0,
+        "image_label": 1,
+        "img_helps_text": 1,
+        "sticker_group": 15
+    },
+    {
+        "text": "第三方自带翻译功能~\t",
+        "image": "1599521.webp",
+        "multimodal_label": 1,
+        "text_label": 0,
+        "image_label": 1,
+        "img_helps_text": 1,
+        "sticker_group": 15
+    },
+    {
+        "text": "懂什么？\t",
+        "image": "1599521.webp",
+        "multimodal_label": 1,
+        "text_label": 0,
+        "image_label": 1,
+        "img_helps_text": 1,
+        "sticker_group": 15
+    },
+    {
+        "text": "为什么你老是觉得聪聪不好的人呢\t哦，人已经退了\t",
+        "image": "1599521.webp",
+        "multimodal_label": 1,
+        "text_label": 2,
+        "image_label": 1,
+        "img_helps_text": 1,
+        "sticker_group": 15
+    },
+    {
+        "text": "印象笔记是一个公司做的  不是一个人做的\n而且我也不是印象笔记的人  只是一个用户\t",
+        "image": "1599521.webp",
+        "multimodal_label": 1,
+        "text_label": 0,
+        "image_label": 1,
+        "img_helps_text": 1,
+        "sticker_group": 15
+    },
+    {
+        "text": "那么就重启tg打开就没了\t",
+        "image": "1597474.webp",
+        "multimodal_label": 2,
+        "text_label": 0,
+        "image_label": 2,
+        "img_helps_text": 1,
+        "sticker_group": 15
+    },
+    {
+        "text": "来啊\t",
+        "image": "1599521.webp",
+        "multimodal_label": 1,
+        "text_label": 0,
+        "image_label": 1,
+        "img_helps_text": 1,
+        "sticker_group": 15
+    },
+    {
+        "text": "微信这个是放血吗？\t我充了1K\t",
+        "image": "1598360.webp",
+        "multimodal_label": 0,
+        "text_label": 0,
+        "image_label": 0,
+        "img_helps_text": 0,
+        "sticker_group": 15
+    },
+    {
+        "text": "我充了1K\t",
+        "image": "1598387.webp",
+        "multimodal_label": 2,
+        "text_label": 0,
+        "image_label": 2,
+        "img_helps_text": 1,
+        "sticker_group": 15
+    },
+    {
+        "text": "相信我最后还是会一团乱麻的\t",
+        "image": "1598360.webp",
+        "multimodal_label": 2,
+        "text_label": 2,
+        "image_label": 0,
+        "img_helps_text": 0,
+        "sticker_group": 15
+    },
+    {
+        "text": "最主要的是只要开始工作，最后还是会一团乱麻emmmm\t",
+        "image": "1598387.webp",
+        "multimodal_label": 2,
+        "text_label": 2,
+        "image_label": 2,
+        "img_helps_text": 0,
+        "sticker_group": 15
+    },
+    {
+        "text": "干嘛呢，暴位置啊？\t",
+        "image": "1599514.webp",
+        "multimodal_label": 2,
+        "text_label": 2,
+        "image_label": 2,
+        "img_helps_text": 0,
+        "sticker_group": 15
+    },
+    {
+        "text": "~~这就去举报你违法翻墙~~\t",
+        "image": "1599521.webp",
+        "multimodal_label": 1,
+        "text_label": 2,
+        "image_label": 1,
+        "img_helps_text": 1,
+        "sticker_group": 15
+    },
+    {
+        "text": "那我加一\t",
+        "image": "25850.webp",
+        "multimodal_label": 0,
+        "text_label": 0,
+        "image_label": 0,
+        "img_helps_text": 0,
+        "sticker_group": 15
+    }
+]

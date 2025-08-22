@@ -1,0 +1,794 @@
+[
+    {
+        "text": "说啥\t",
+        "image": "1679771.webp",
+        "multimodal_label": 2,
+        "text_label": 0,
+        "image_label": 2,
+        "img_helps_text": 1,
+        "sticker_group": 24
+    },
+    {
+        "text": "没人理\t",
+        "image": "1679818.webp",
+        "multimodal_label": 2,
+        "text_label": 2,
+        "image_label": 2,
+        "img_helps_text": 0,
+        "sticker_group": 24
+    },
+    {
+        "text": "只想用免费的vpn\t",
+        "image": "1679833.webp",
+        "multimodal_label": 1,
+        "text_label": 0,
+        "image_label": 1,
+        "img_helps_text": 1,
+        "sticker_group": 24
+    },
+    {
+        "text": "😄\t",
+        "image": "1685213.webp",
+        "multimodal_label": 1,
+        "text_label": 1,
+        "image_label": 1,
+        "img_helps_text": 0,
+        "sticker_group": 24
+    },
+    {
+        "text": "帮我也看几遍\t",
+        "image": "1611731.webp",
+        "multimodal_label": 1,
+        "text_label": 0,
+        "image_label": 1,
+        "img_helps_text": 1,
+        "sticker_group": 24
+    },
+    {
+        "text": "今天早晨坤坤没来唱歌\t",
+        "image": "1616122.webp",
+        "multimodal_label": 1,
+        "text_label": 0,
+        "image_label": 1,
+        "img_helps_text": 1,
+        "sticker_group": 24
+    },
+    {
+        "text": "不太可能\trix只是例外\t要不然没人做机场\t",
+        "image": "1571320.webp",
+        "multimodal_label": 0,
+        "text_label": 0,
+        "image_label": 0,
+        "img_helps_text": 0,
+        "sticker_group": 24
+    },
+    {
+        "text": "貌似这个是bot的功能\t",
+        "image": "2099.webp",
+        "multimodal_label": 2,
+        "text_label": 0,
+        "image_label": 2,
+        "img_helps_text": 1,
+        "sticker_group": 57
+    },
+    {
+        "text": "说不定就没有女朋友。。。\t",
+        "image": "1632090.webp",
+        "multimodal_label": 2,
+        "text_label": 2,
+        "image_label": 2,
+        "img_helps_text": 0,
+        "sticker_group": 38
+    },
+    {
+        "text": "加群 提示抱歉这是一个私有群组 咋回事\t",
+        "image": "1675465.webp",
+        "multimodal_label": 2,
+        "text_label": 0,
+        "image_label": 2,
+        "img_helps_text": 1,
+        "sticker_group": 38
+    },
+    {
+        "text": "这群都是些什么大佬，个个神头鬼脸，都是大佬，撩尼m聊😢😢\t",
+        "image": "1641401.webp",
+        "multimodal_label": 2,
+        "text_label": 2,
+        "image_label": 2,
+        "img_helps_text": 0,
+        "sticker_group": 37
+    },
+    {
+        "text": "我要\t",
+        "image": "28834.webp",
+        "multimodal_label": 1,
+        "text_label": 0,
+        "image_label": 1,
+        "img_helps_text": 1,
+        "sticker_group": 64
+    },
+    {
+        "text": "有知道的吗谢谢\t",
+        "image": "1505392.webp",
+        "multimodal_label": 1,
+        "text_label": 1,
+        "image_label": 0,
+        "img_helps_text": 0,
+        "sticker_group": 9
+    },
+    {
+        "text": "能说说 怎么像么？没经历过土豆时期\t",
+        "image": "1681466.webp",
+        "multimodal_label": 1,
+        "text_label": 0,
+        "image_label": 1,
+        "img_helps_text": 1,
+        "sticker_group": 9
+    },
+    {
+        "text": "系统不太好用\t",
+        "image": "1534949.webp",
+        "multimodal_label": 2,
+        "text_label": 2,
+        "image_label": 1,
+        "img_helps_text": 0,
+        "sticker_group": 9
+    },
+    {
+        "text": "哈哈哈哈\t",
+        "image": "1606805.webp",
+        "multimodal_label": 2,
+        "text_label": 1,
+        "image_label": 2,
+        "img_helps_text": 1,
+        "sticker_group": 9
+    },
+    {
+        "text": "可能是节点不行\t",
+        "image": "1674183.webp",
+        "multimodal_label": 2,
+        "text_label": 2,
+        "image_label": 1,
+        "img_helps_text": 0,
+        "sticker_group": 9
+    },
+    {
+        "text": "搞个i5 10090k\t",
+        "image": "1674183.webp",
+        "multimodal_label": 1,
+        "text_label": 0,
+        "image_label": 1,
+        "img_helps_text": 1,
+        "sticker_group": 9
+    },
+    {
+        "text": "我都白嫖\t",
+        "image": "1534949.webp",
+        "multimodal_label": 1,
+        "text_label": 0,
+        "image_label": 1,
+        "img_helps_text": 1,
+        "sticker_group": 9
+    },
+    {
+        "text": "他退了\t",
+        "image": "1553961.webp",
+        "multimodal_label": 2,
+        "text_label": 2,
+        "image_label": 2,
+        "img_helps_text": 0,
+        "sticker_group": 9
+    },
+    {
+        "text": "害怕\t",
+        "image": "1709977.webp",
+        "multimodal_label": 2,
+        "text_label": 2,
+        "image_label": 2,
+        "img_helps_text": 0,
+        "sticker_group": 9
+    },
+    {
+        "text": "U盘装win 10  提示“我们无法创建新的分区，也找不到现有的分区” 这种情况怎么搞？有知道的吗？\t",
+        "image": "1631914.webp",
+        "multimodal_label": 1,
+        "text_label": 0,
+        "image_label": 1,
+        "img_helps_text": 0,
+        "sticker_group": 9
+    },
+    {
+        "text": "Lisa真可\t",
+        "image": "1534949.webp",
+        "multimodal_label": 1,
+        "text_label": 1,
+        "image_label": 1,
+        "img_helps_text": 0,
+        "sticker_group": 9
+    },
+    {
+        "text": "请教一下，如何找回自己在telegram写过的文章\t",
+        "image": "1528705.webp",
+        "multimodal_label": 1,
+        "text_label": 0,
+        "image_label": 1,
+        "img_helps_text": 1,
+        "sticker_group": 9
+    },
+    {
+        "text": "还是看节点吧\t",
+        "image": "1505392.webp",
+        "multimodal_label": 2,
+        "text_label": 0,
+        "image_label": 2,
+        "img_helps_text": 1,
+        "sticker_group": 9
+    },
+    {
+        "text": "搜那个clubhouse群\t",
+        "image": "1674183.webp",
+        "multimodal_label": 1,
+        "text_label": 0,
+        "image_label": 1,
+        "img_helps_text": 1,
+        "sticker_group": 9
+    },
+    {
+        "text": "真是冷清啊\t都约会去了吗？\t",
+        "image": "31546.webp",
+        "multimodal_label": 2,
+        "text_label": 2,
+        "image_label": 2,
+        "img_helps_text": 0,
+        "sticker_group": 9
+    },
+    {
+        "text": "太难了\t",
+        "image": "36085.webp",
+        "multimodal_label": 2,
+        "text_label": 2,
+        "image_label": 2,
+        "img_helps_text": 0,
+        "sticker_group": 9
+    },
+    {
+        "text": "我来了\t",
+        "image": "1549248.webp",
+        "multimodal_label": 1,
+        "text_label": 0,
+        "image_label": 1,
+        "img_helps_text": 1,
+        "sticker_group": 9
+    },
+    {
+        "text": "用mtproxy吧\t这么好用\t",
+        "image": "1656630.webp",
+        "multimodal_label": 1,
+        "text_label": 1,
+        "image_label": 1,
+        "img_helps_text": 0,
+        "sticker_group": 9
+    },
+    {
+        "text": "做动画好难\t",
+        "image": "1501618.webp",
+        "multimodal_label": 2,
+        "text_label": 2,
+        "image_label": 2,
+        "img_helps_text": 0,
+        "sticker_group": 9
+    },
+    {
+        "text": "做动画好难\t",
+        "image": "1501624.webp",
+        "multimodal_label": 2,
+        "text_label": 2,
+        "image_label": 2,
+        "img_helps_text": 0,
+        "sticker_group": 9
+    },
+    {
+        "text": "Tiktok 香港看不了？\t为啥网页显示没有了\t",
+        "image": "1505392.webp",
+        "multimodal_label": 2,
+        "text_label": 2,
+        "image_label": 2,
+        "img_helps_text": 0,
+        "sticker_group": 9
+    },
+    {
+        "text": "越狱吧\t",
+        "image": "1503278.webp",
+        "multimodal_label": 0,
+        "text_label": 0,
+        "image_label": 0,
+        "img_helps_text": 0,
+        "sticker_group": 9
+    },
+    {
+        "text": "六级还没过\t",
+        "image": "1505392.webp",
+        "multimodal_label": 2,
+        "text_label": 2,
+        "image_label": 2,
+        "img_helps_text": 0,
+        "sticker_group": 9
+    },
+    {
+        "text": "关键过了\t有证呀\t",
+        "image": "1534949.webp",
+        "multimodal_label": 1,
+        "text_label": 1,
+        "image_label": 1,
+        "img_helps_text": 0,
+        "sticker_group": 9
+    },
+    {
+        "text": "没办法，考试就是选人才\t",
+        "image": "1505392.webp",
+        "multimodal_label": 2,
+        "text_label": 2,
+        "image_label": 2,
+        "img_helps_text": 0,
+        "sticker_group": 9
+    },
+    {
+        "text": "你没好的学历谁要你 啊\t",
+        "image": "1505392.webp",
+        "multimodal_label": 2,
+        "text_label": 2,
+        "image_label": 2,
+        "img_helps_text": 0,
+        "sticker_group": 9
+    },
+    {
+        "text": "大学也分好坏\t",
+        "image": "1505392.webp",
+        "multimodal_label": 2,
+        "text_label": 0,
+        "image_label": 2,
+        "img_helps_text": 1,
+        "sticker_group": 9
+    },
+    {
+        "text": "比如司法考试\t",
+        "image": "1505392.webp",
+        "multimodal_label": 2,
+        "text_label": 0,
+        "image_label": 2,
+        "img_helps_text": 0,
+        "sticker_group": 9
+    },
+    {
+        "text": "没有\t",
+        "image": "1507202.webp",
+        "multimodal_label": 2,
+        "text_label": 0,
+        "image_label": 2,
+        "img_helps_text": 1,
+        "sticker_group": 9
+    },
+    {
+        "text": "现在缺都是高科技人才\t能造芯片的那种\t",
+        "image": "1505392.webp",
+        "multimodal_label": 0,
+        "text_label": 0,
+        "image_label": 0,
+        "img_helps_text": 0,
+        "sticker_group": 9
+    },
+    {
+        "text": "毕竟都在学习\t有啥时间干别的事\t",
+        "image": "1505392.webp",
+        "multimodal_label": 0,
+        "text_label": 0,
+        "image_label": 0,
+        "img_helps_text": 0,
+        "sticker_group": 9
+    },
+    {
+        "text": "加一\t",
+        "image": "1507202.webp",
+        "multimodal_label": 2,
+        "text_label": 0,
+        "image_label": 2,
+        "img_helps_text": 1,
+        "sticker_group": 9
+    },
+    {
+        "text": "果然，不要脸的人，是无敌的\t",
+        "image": "1669073.webp",
+        "multimodal_label": 2,
+        "text_label": 2,
+        "image_label": 2,
+        "img_helps_text": 0,
+        "sticker_group": 9
+    },
+    {
+        "text": "聪聪~\t",
+        "image": "1667281.webp",
+        "multimodal_label": 1,
+        "text_label": 1,
+        "image_label": 1,
+        "img_helps_text": 0,
+        "sticker_group": 9
+    },
+    {
+        "text": "能抢到就想\t",
+        "image": "1534949.webp",
+        "multimodal_label": 1,
+        "text_label": 0,
+        "image_label": 1,
+        "img_helps_text": 1,
+        "sticker_group": 9
+    },
+    {
+        "text": "你要注册下\t这个挺不错的\t",
+        "image": "1674183.webp",
+        "multimodal_label": 1,
+        "text_label": 1,
+        "image_label": 1,
+        "img_helps_text": 1,
+        "sticker_group": 9
+    },
+    {
+        "text": "什么\t吃了谁\t你怎么了\t",
+        "image": "1709075.webp",
+        "multimodal_label": 2,
+        "text_label": 0,
+        "image_label": 2,
+        "img_helps_text": 1,
+        "sticker_group": 9
+    },
+    {
+        "text": "人家是帮忙找这些资源的\t不是在群里反共的\t",
+        "image": "30043.webp",
+        "multimodal_label": 2,
+        "text_label": 2,
+        "image_label": 1,
+        "img_helps_text": 0,
+        "sticker_group": 9
+    },
+    {
+        "text": "求指教\t",
+        "image": "1549248.webp",
+        "multimodal_label": 1,
+        "text_label": 0,
+        "image_label": 1,
+        "img_helps_text": 1,
+        "sticker_group": 9
+    },
+    {
+        "text": "这么多人🐴啊\t",
+        "image": "1553961.webp",
+        "multimodal_label": 1,
+        "text_label": 0,
+        "image_label": 1,
+        "img_helps_text": 1,
+        "sticker_group": 9
+    },
+    {
+        "text": "截图\t",
+        "image": "1699311.webp",
+        "multimodal_label": 0,
+        "text_label": 0,
+        "image_label": 0,
+        "img_helps_text": 0,
+        "sticker_group": 9
+    },
+    {
+        "text": "😂\t",
+        "image": "1704145.webp",
+        "multimodal_label": 1,
+        "text_label": 1,
+        "image_label": 1,
+        "img_helps_text": 0,
+        "sticker_group": 9
+    },
+    {
+        "text": "。。。\t",
+        "image": "1704259.webp",
+        "multimodal_label": 2,
+        "text_label": 2,
+        "image_label": 2,
+        "img_helps_text": 0,
+        "sticker_group": 9
+    },
+    {
+        "text": "注意你的言论，查收一下律师函\t",
+        "image": "1709075.webp",
+        "multimodal_label": 2,
+        "text_label": 2,
+        "image_label": 2,
+        "img_helps_text": 0,
+        "sticker_group": 9
+    },
+    {
+        "text": "有没有人知道\t",
+        "image": "1709977.webp",
+        "multimodal_label": 2,
+        "text_label": 0,
+        "image_label": 2,
+        "img_helps_text": 1,
+        "sticker_group": 9
+    },
+    {
+        "text": "去找机器人了\t",
+        "image": "1641845.webp",
+        "multimodal_label": 2,
+        "text_label": 0,
+        "image_label": 2,
+        "img_helps_text": 1,
+        "sticker_group": 9
+    },
+    {
+        "text": "要付钱\t",
+        "image": "1648008.webp",
+        "multimodal_label": 2,
+        "text_label": 0,
+        "image_label": 2,
+        "img_helps_text": 1,
+        "sticker_group": 9
+    },
+    {
+        "text": "国际友人\t",
+        "image": "1618051.webp",
+        "multimodal_label": 2,
+        "text_label": 1,
+        "image_label": 2,
+        "img_helps_text": 1,
+        "sticker_group": 9
+    },
+    {
+        "text": "你讲啥国际友人能看明白吗\t",
+        "image": "1618059.webp",
+        "multimodal_label": 1,
+        "text_label": 0,
+        "image_label": 1,
+        "img_helps_text": 1,
+        "sticker_group": 9
+    },
+    {
+        "text": "微博都是喷子\t女拳\t",
+        "image": "1507202.webp",
+        "multimodal_label": 2,
+        "text_label": 2,
+        "image_label": 2,
+        "img_helps_text": 0,
+        "sticker_group": 9
+    },
+    {
+        "text": "之前不有侮辱烈士，被刑拘的吗\t",
+        "image": "1648008.webp",
+        "multimodal_label": 2,
+        "text_label": 0,
+        "image_label": 2,
+        "img_helps_text": 1,
+        "sticker_group": 9
+    },
+    {
+        "text": "B站还不错\t",
+        "image": "1674183.webp",
+        "multimodal_label": 1,
+        "text_label": 1,
+        "image_label": 1,
+        "img_helps_text": 0,
+        "sticker_group": 9
+    },
+    {
+        "text": "贵校部分专业大学四年可以当成高四读到高七\t我院跟其他学院还是差了点（\t",
+        "image": "24652.webp",
+        "multimodal_label": 2,
+        "text_label": 2,
+        "image_label": 2,
+        "img_helps_text": 0,
+        "sticker_group": 9
+    },
+    {
+        "text": "cn2不花钱？\t机器不花钱？\t",
+        "image": "1656630.webp",
+        "multimodal_label": 2,
+        "text_label": 2,
+        "image_label": 1,
+        "img_helps_text": 0,
+        "sticker_group": 9
+    },
+    {
+        "text": "呃呃\t",
+        "image": "1507202.webp",
+        "multimodal_label": 2,
+        "text_label": 0,
+        "image_label": 2,
+        "img_helps_text": 1,
+        "sticker_group": 9
+    },
+    {
+        "text": "家人们，请问用哪个软件去除背景成透明(安卓,无电脑)\t",
+        "image": "1667281.webp",
+        "multimodal_label": 0,
+        "text_label": 0,
+        "image_label": 0,
+        "img_helps_text": 0,
+        "sticker_group": 9
+    },
+    {
+        "text": "是啊\t要靓号干啥\t",
+        "image": "1667281.webp",
+        "multimodal_label": 0,
+        "text_label": 0,
+        "image_label": 0,
+        "img_helps_text": 0,
+        "sticker_group": 9
+    },
+    {
+        "text": "那你是真的蔡\t",
+        "image": "1613308.webp",
+        "multimodal_label": 2,
+        "text_label": 2,
+        "image_label": 2,
+        "img_helps_text": 0,
+        "sticker_group": 52
+    },
+    {
+        "text": "有没有safe for work的小姐姐图片频道\t",
+        "image": "1694576.webp",
+        "multimodal_label": 0,
+        "text_label": 0,
+        "image_label": 0,
+        "img_helps_text": 0,
+        "sticker_group": 59
+    },
+    {
+        "text": "你猜\t",
+        "image": "1572829.webp",
+        "multimodal_label": 1,
+        "text_label": 0,
+        "image_label": 1,
+        "img_helps_text": 1,
+        "sticker_group": 22
+    },
+    {
+        "text": "太残暴了\t",
+        "image": "1540465.webp",
+        "multimodal_label": 2,
+        "text_label": 2,
+        "image_label": 1,
+        "img_helps_text": 0,
+        "sticker_group": 22
+    },
+    {
+        "text": "凯文呢\t",
+        "image": "1636222.webp",
+        "multimodal_label": 2,
+        "text_label": 0,
+        "image_label": 2,
+        "img_helps_text": 1,
+        "sticker_group": 22
+    },
+    {
+        "text": "没有\t",
+        "image": "1528162.webp",
+        "multimodal_label": 2,
+        "text_label": 0,
+        "image_label": 2,
+        "img_helps_text": 1,
+        "sticker_group": 22
+    },
+    {
+        "text": "还有20万人群\t",
+        "image": "1567641.webp",
+        "multimodal_label": 0,
+        "text_label": 0,
+        "image_label": 0,
+        "img_helps_text": 0,
+        "sticker_group": 22
+    },
+    {
+        "text": "从一种沙雕变成另一种沙雕的故事\t",
+        "image": "44170.webp",
+        "multimodal_label": 1,
+        "text_label": 0,
+        "image_label": 1,
+        "img_helps_text": 1,
+        "sticker_group": 22
+    },
+    {
+        "text": "魔改的  随便换\t还收？\t",
+        "image": "29326.webp",
+        "multimodal_label": 2,
+        "text_label": 0,
+        "image_label": 2,
+        "img_helps_text": 1,
+        "sticker_group": 22
+    },
+    {
+        "text": "有没有iplc\t",
+        "image": "1567641.webp",
+        "multimodal_label": 1,
+        "text_label": 0,
+        "image_label": 1,
+        "img_helps_text": 1,
+        "sticker_group": 22
+    },
+    {
+        "text": "普通香港服务器一年多少钱\t",
+        "image": "1572829.webp",
+        "multimodal_label": 1,
+        "text_label": 0,
+        "image_label": 1,
+        "img_helps_text": 1,
+        "sticker_group": 22
+    },
+    {
+        "text": "快才是真香\t",
+        "image": "1572829.webp",
+        "multimodal_label": 1,
+        "text_label": 1,
+        "image_label": 1,
+        "img_helps_text": 0,
+        "sticker_group": 22
+    },
+    {
+        "text": "京豆\t京东这波操作很秀\t看看矿主\t",
+        "image": "1572829.webp",
+        "multimodal_label": 1,
+        "text_label": 1,
+        "image_label": 1,
+        "img_helps_text": 0,
+        "sticker_group": 22
+    },
+    {
+        "text": "我在用rixcloud\t速度直接起飞\t",
+        "image": "1561541.webp",
+        "multimodal_label": 1,
+        "text_label": 1,
+        "image_label": 1,
+        "img_helps_text": 0,
+        "sticker_group": 22
+    },
+    {
+        "text": "要是安卓\t你可能就真被入侵了\t",
+        "image": "1621335.webp",
+        "multimodal_label": 2,
+        "text_label": 2,
+        "image_label": 1,
+        "img_helps_text": 0,
+        "sticker_group": 22
+    },
+    {
+        "text": "好像cia破解苹果手机还去找了以色列\t花了几百万美金\t",
+        "image": "1621352.webp",
+        "multimodal_label": 1,
+        "text_label": 0,
+        "image_label": 1,
+        "img_helps_text": 1,
+        "sticker_group": 22
+    },
+    {
+        "text": "啥是社工库\t",
+        "image": "1622663.webp",
+        "multimodal_label": 1,
+        "text_label": 0,
+        "image_label": 1,
+        "img_helps_text": 1,
+        "sticker_group": 22
+    },
+    {
+        "text": "化学真的那么多女生吗\t",
+        "image": "24825.webp",
+        "multimodal_label": 0,
+        "text_label": 0,
+        "image_label": 0,
+        "img_helps_text": 0,
+        "sticker_group": 22
+    },
+    {
+        "text": "书记大人肯定不知道。\t满城挖的阮成发能把滇读成镇\t你太高估党的干部了\t",
+        "image": "25111.webp",
+        "multimodal_label": 1,
+        "text_label": 0,
+        "image_label": 1,
+        "img_helps_text": 1,
+        "sticker_group": 22
+    }
+]
